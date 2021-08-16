@@ -23,8 +23,8 @@ And it is my **wacky** and **uncharacteristic** README.md because of hype
 - I had a little C++ experience
 - Maybe I had some other language experience, but I forgor it. Ask me if you need to know it for sure for some reason!
 ## ⚡️ Repositories I'm proud of
-- [gt67r4](https://github.com/Rorkh/gt67r4) - Discord API wrapper for Linux
-- [urch](https://github.com/Rorkh/urch) -  Keyboard and mouse events simulation library in pure LuaJIT 
+- [gt67r4](https://github.com/Rorkh/gt67r4) - Discord API wrapper for Lua
+- [urch](https://github.com/Rorkh/urch) -  Multiplatform keyboard and mouse events simulation library in pure LuaJIT 
 - [lightdrop](https://github.com/Rorkh/lightdrop) -  Fastest VK (vk.com) bot framework written on Lua 
 - [osu](https://github.com/Rorkh/osu) - osu! beatmap file parser written in pure Lua 
 ## ✨ Repositories I'm proud of lesser but still
