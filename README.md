@@ -26,7 +26,8 @@ And it is my **wacky** and **uncharacteristic** README.md because of hype
 - [gt67r4](https://github.com/Rorkh/gt67r4) - Discord API wrapper for Lua
 - [urch](https://github.com/Rorkh/urch) -  Multiplatform keyboard and mouse events simulation library in pure LuaJIT 
 - [lightdrop](https://github.com/Rorkh/lightdrop) -  Fastest VK (vk.com) bot framework written on Lua 
-- [osu](https://github.com/Rorkh/osu) - osu! beatmap file parser written in pure Lua 
+- [osu](https://github.com/Rorkh/osu) - osu! beatmap file parser written in pure Lua
+- [pancake](https://github.com/Rorkh/pancake) - Bot for virtual piano that plays midi files in LuaJIT
 ## ✨ Repositories I'm proud of lesser but still
 - [HotReload](https://github.com/Rorkh/HotReload) - [cuberite](https://github.com/cuberite/cuberite) plugin that implements plugins hot reload functionality
 - [vk-music-statistics](https://github.com/Rorkh/vk-music-statistics) - Firefox addon that collects VK music listening statistics
