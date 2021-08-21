@@ -29,6 +29,7 @@ And it is my **wacky** and **uncharacteristic** README.md because of hype
 - [osu](https://github.com/Rorkh/osu) - osu! beatmap file parser written in pure Lua 
 ## ✨ Repositories I'm proud of lesser but still
 - [HotReload](https://github.com/Rorkh/HotReload) - [cuberite](https://github.com/cuberite/cuberite) plugin that implements plugins hot reload functionality
+- [vk-music-statistics](https://github.com/Rorkh/vk-music-statistics) - Firefox addon that collects VK music listening statistics
 - [squirt](https://github.com/Rorkh/squirt) -  Wrapper for [turbo](https://github.com/kernelsauce/turbo) HTTP capabilities (web framework) 
 - [vklib](https://github.com/Rorkh/vklib-turbo) - VK api wrapper that uses [turbo](https://github.com/kernelsauce/turbo)
 - [tea](https://github.com/Rorkh/tea) - Lua preprocessor. Literally a pattern shit, but we are all have things from the past that we are ashamed of. Right?
