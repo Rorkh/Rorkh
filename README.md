@@ -3,21 +3,7 @@ The one who switches from idea to idea without completing anything at all.
 > The way I see it, our fates appear to be intertwined.
 ## 📖  About me
 - I'm 18 y/o from Russia
-- I'm Lua enthusiast and love everything about it
-- Also I love my friends
-## 📋 I'm interested in
-- Lua itself and Lua infrastructure development
-- Programming languages compilers and lexers
-## 💥  What I know or experienced?
-- I practice Nim now
-- I think that I know Lua
-- I had a continuous Java experience but nothing serious
-- I had a decent JavaScript experience
-- I had a decent PHP experience
-- I had a decent Python experience
-- I had a little C# experience
-- I had a little C++ experience
-- Maybe I had some other language experience, but I forgor it. Ask me if you need to know it for sure for some reason!
+- Sometimes I do things
 ## ⚡️ My projects
 - [gt67r4](https://github.com/Rorkh/gt67r4) - Discord API wrapper for Lua
 - [urch](https://github.com/Rorkh/urch) -  Multiplatform keyboard and mouse events simulation library in pure LuaJIT
