@@ -2,7 +2,7 @@
 The one who switches from idea to idea without completing anything at all.
 > The way I see it, our fates appear to be intertwined.
 ## 📖  About me
-- I'm 18 y/o from Russia
+- I'm 21 y/o from Russia
 - Sometimes I do things
 ## ⚡️ My projects
 - [gt67r4](https://github.com/Rorkh/gt67r4) - Discord API wrapper for Lua
